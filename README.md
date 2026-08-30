@@ -27,7 +27,7 @@
 | **OLED 显示屏** | 根据 `Lib/Inc/oled.h` 配置 | 显示 ADC 采集结果与电压数据 |
 
 > 💡 **采样电压计算公式**：
-> $$\text{Voltage (V)} = \frac{\text{ADC\_Value}}{4095.0} \times 3.3\text{V}$$
+> $$\text{Voltage (V)} = \frac{\text{ADC Value}}{4095.0} \times 3.3\text{V}$$
 
 ---
 
